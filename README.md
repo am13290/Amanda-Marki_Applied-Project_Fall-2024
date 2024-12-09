@@ -16,9 +16,9 @@ Access the Chatbot: https://chatgpt.com/g/g-674dcc823b9c819193ea20df3e9e7dd0-pmb
 2. Input project management-related queries
    *NOTE: prompt MUST refer to companies/products/case details DIRECTLY
    (e.g.
-   ### GOOD PROMPT
+   GOOD PROMPT
    "How should _Nike_ document the scope management plan _for their Olympics Running Line_ to ensure it aligns with the goals of their stakeholders."
-   ### BAD PROMPT
+   BAD PROMPT
    "How should the company document the scope management plan to ensure it aligns with the goals of the stakeholders.")
 4. Clear memory/relaunch chatbot before inputting new project
 
