@@ -1,7 +1,7 @@
 # Amanda-Marki_Applied-Project_Fall-2024
 
 ## Description
-The LLM Chatbot for Project Management Using the PMI PMBOK is an AI-driven tool designed to assist project managers by providing real-time, contextually relevant guidance based on the Project Management Institute’s Project Management Body of Knowledge (PMBOK).
+An LLM Chatbot for Project Management Using the PMI PMBOK is an AI-driven tool designed to assist project managers by providing real-time, contextually relevant guidance based on the Project Management Institute’s Project Management Body of Knowledge (PMBOK).
 
 ## Getting Started
 Access the Chatbot: https://chatgpt.com/g/g-674dcc823b9c819193ea20df3e9e7dd0-pmbok-chatbot
